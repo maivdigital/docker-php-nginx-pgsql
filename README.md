@@ -4,7 +4,7 @@
 - basic setup for Dockerized containers, PHP app build
 - comments left in some files that have resolved issues
 - make sure to create dir 'postgres' as this is where postgres data will be stored when container is build
-- set permission ```chmod -R 755 app/``` && ```chmod 644 app/inex.php```
+- set permission ```chmod -R 755 app/``` && ```chmod 644 app/index.php```
 
 ### Commands to start this project
 
