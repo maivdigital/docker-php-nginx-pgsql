@@ -10,6 +10,7 @@
 - run ```docker-compose build --no-cache``` - this will build all containers and avoid using cache
 - run ```docker-compose up -d``` - this will start containers detach mode
 - run ```docker-compose down``` - this will stop containers
+- run ```docker-compose ps``` - this will list all working conainers
 - run ```docker logs [container name]``` - this will display basic log for specified container
 - if using git bash shell into container
     - ```winpty docker exec -it [container name] //bin//sh```
