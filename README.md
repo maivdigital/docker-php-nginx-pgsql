@@ -1,7 +1,7 @@
 ## Docker - PHP - NGINX - POSTGRESQL - PGADMIN
 
 
-- basic setup for Dockerized containers
+- basic setup for Dockerized containers, PHP app build
 - comments left in some files that have resolved issues
 
 
