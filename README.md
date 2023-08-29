@@ -3,7 +3,7 @@
 
 - basic setup for Dockerized containers, PHP app build
 - comments left in some files that have resolved issues
-
+- make sure to create dir 'postgres' as this is where postgres data will be stored when container is build
 
 ### Commands to start this project
 
