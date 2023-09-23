@@ -1,6 +1,5 @@
 FROM php:8.1-fpm
 
-
 WORKDIR /var/www/html
 
 # if using alpine then apt-get will not work
